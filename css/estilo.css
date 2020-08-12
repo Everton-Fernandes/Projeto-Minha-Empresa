@@ -1,0 +1,30 @@
+/* body{
+    background-color: black;
+} */
+.titulo{
+    font-family: 'Street soul', sans-serif;
+    font-size: 3rem !important;
+}
+.tamanhoimg img{
+    width: 3rem !important;
+}
+.tamanho img{
+    width: 5rem !important;
+}
+.textocentro{
+    text-align: center;
+}
+.margeminternatop{
+    padding-top: 4rem;
+}
+.logo{
+    width: 5rem;
+    height: 5rem;
+}
+.logo1{
+    width: 6rem;
+    height: 6rem;
+}
+.bg-cinza{
+    background-color: rgb(238, 238, 238);
+}
