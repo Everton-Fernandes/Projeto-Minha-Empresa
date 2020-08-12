@@ -1,2 +1,2 @@
-# Projeto-Minha-Empresa
-Foi uma atividade desenvolvida como atividade para entrega na ETEC
+# Projetos-web
+Foram atividades desenvolvidas para entrega na ETEC - Doutora Ruth Cardoso
